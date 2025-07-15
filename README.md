@@ -1,10 +1,5 @@
 # Projekt ekonometryczny: Liczba samochodów osobowych na 1000 mieszkańców w Polsce (2005–2022)
 
-## Autor
-**Tomasz Firlej**  
-Kierunek: Informatyka i Ekonometria  
-Uniwersytet Ekonomiczny w Poznaniu, 2024
-
 ## Opis projektu
 
 Celem projektu było zbudowanie modelu ekonometrycznego, który wyjaśnia i prognozuje **liczbę samochodów osobowych zarejestrowanych na 1000 ludności w Polsce** w latach 2005–2022. W projekcie wykorzystano dane statystyczne oraz klasyczne metody regresji, w tym:
