@@ -15,7 +15,7 @@ Celem projektu było zbudowanie modelu ekonometrycznego, który wyjaśnia i prog
 
 ## Pliki projektu
 
-- `Ekonometria_projekt.pdf` – pełna dokumentacja projektu wraz z analizą statystyczną i interpretacją wyników.
+- `Ekonometria_projekt.pdf` – pełna dokumentacja projektu.
 - `Ekonometria_projekt.xlsx` – zbiór danych oraz obliczenia pomocnicze w Excelu.
 - `prezentacjaEkonometria.pptx` – podsumowanie projektu w formie prezentacji PowerPoint.
 
@@ -24,7 +24,7 @@ Celem projektu było zbudowanie modelu ekonometrycznego, który wyjaśnia i prog
 - **Liczba samochodów osobowych zarejestrowanych na 1000 ludności**  
   Źródło: [GUS](https://stat.gov.pl)
 
-## 📈 Zmienne objaśniające (X)
+## Zmienne objaśniające (X)
 
 | Symbol | Opis                                                                                   | Źródło         |
 |--------|------------------------------------------------------------------------------------------|----------------|
